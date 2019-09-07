@@ -1,4 +1,5 @@
-[../](../)
+[symbol/](symbol/)
+
 # Books of Geometron
 
 ## Cosmology

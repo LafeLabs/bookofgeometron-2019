@@ -1,6 +1,6 @@
 [../](../)
 
-# Path
+# Path, ὁδός, 道
 
 
 The Path, or the Way, is a fundamental element of any cosmology.  It links this to numerous existing philosophical and religious frameworks, in which the basic shared belief system of a group of people is defined by what we *do*, how we *live*, the path we walk as we go through life.  
