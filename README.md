@@ -2,6 +2,8 @@
 
 # Books of Geometron
 
+[preface](preface/)
+
 ## Cosmology
 
 1. [justification of the use of the word "cosmology", universe of Things](cosmology/)
