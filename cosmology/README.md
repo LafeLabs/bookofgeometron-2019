@@ -44,6 +44,13 @@ In this work we strive to build a cosmology which one person can fully understan
 
 Roughly, the world view sketched here divides our Universe into three parts, joined by a linguistic framework.  Those three parts are the Watershed, the Street, and the Factory.  The linguistic framework is the system of "organic media" documented here, which is a combination of web-based media and physical media, both of which are self-replicating in that each bit of media can be totally replicated by anyone any time anywhere, for free, an infinite number of times(like living things, hence "organic"). 
 
+## Teacher Action:
+
+go through slide deck for this section
+
+## student action:
+
+read this section
 
 
 

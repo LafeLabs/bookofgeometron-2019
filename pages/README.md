@@ -1,4 +1,4 @@
-[../](../)
+## [up to top level](../)
 
 
 # Pages
@@ -25,7 +25,13 @@ how to add links
 
 replicate downward, introduction to the tree, basic page replication: whole page replicates, all the code, not just the media, more on this later
 
+## Teacher action:
 
+create a page for the student, demonstrate editing
+
+## student action:
+
+edit page made by teacher, make a sub page down from that page, as shown by teacher, edit that page
 
 
 

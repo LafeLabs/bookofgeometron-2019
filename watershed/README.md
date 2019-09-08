@@ -12,7 +12,18 @@ What do we do with all this information?  First we learn it.  We build up media 
 
 The network consists of both online media and physical media.  Physical media generally consists of objects which can be left outside in the weather which communicate how a place or thing fits into the global atlas of watershed elements via urls or names or symbols or some combination.  The online component is a self-replciating media system, to be more thoroughly documented in a future section, which can be hosted on any web server on the Internet.  Self=replicating means you replicate the pages your "self".  That is, anyone familiar with basic operation of the Watershed network is also familiar with how to teach a new person to replicate it, and this is simple enough that non experts can easily learn it and do it.  Each web page in the Network also is a fractal: it can be forked down to an arbitrary number of sub-layers of heiearchy.  
 
+This is the symbol for the Watershed network, created by the Geometron language documented later:
+
 ![](../symbols/watershed.svg)
 
+The blue color represents water.  The triangle represents the geometric order of the Universe.  The open circle represents the water coming down from the sky, the filled circle represents the sea to which all water flows, and the curved line represents the flowing waterways like rivers and streams.
+
+## Teacher Action:
+
+The teacher will build out some local nodes in the Watershed network for the physical location where the student is or where we are together sharing this information.  This can be a sub-page of some other existing Watershed network page, it does not need its own domain, but it does need for someone to go ahead and make a new node, and make a marker which points to that specific node, with information on how to get there from the top level domain.  Teacher will put a physical marker in a physical place in the Watershed network and guide 
+
+## Student action
+
+Go with teacher out into the physical world see the physical marker, put that into your mobile device, navigate the network from there, physically.  Make a sub page to some existing node on that part of the network, make a marker and plant it in the place of your new node.
 
 
