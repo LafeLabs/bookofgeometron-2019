@@ -16,4 +16,13 @@ symbols here
 
 A slide deck like a powerpoint deck can be created by linking a sequence of maps with hyperlinks, althogh this has much greater versatility and power than the powerpoint format.  
 
-To create a new meme/map in a Geometron network, click on the list icon to get to the list page to make new pages.  In the "new map" field, enter the name  of a new map.  
+To create a new meme/map in a Geometron network, click on the list icon to get to the list page to make new pages.  In the "new map" field, enter the name  of a new map. 
+
+tutorial for exactly how to make a new map, add a symbol, add an image, add a hyperlink, delete an element, move and scale elements, use the touch screen or the mouse.  
+
+how to make geographic maps specifically
+
+how to make memes specifically
+
+how to make a slide deck with an example
+ 
