@@ -17,7 +17,7 @@
 1. [pages](pages/)
 2. [physical markers, signs, cards, artbox](markers/)
 3. [maps/memes](maps/)
-4. trees; Universe of Things, Tree replication
+4. [trees; Universe of Things, Tree replication](trees/)
 5. replicators, github repositories
 6. servers
 7. structure of code, language use
