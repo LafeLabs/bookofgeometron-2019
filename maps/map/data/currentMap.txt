@@ -1,0 +1,38 @@
+[
+    {
+        "x": 0.14200477326968974,
+        "y": 0.1431980906921241,
+        "w": 0.7696897374701671,
+        "angle": 0,
+        "text": "Name of Map",
+        "href": "",
+        "src": ""
+    },
+    {
+        "x": 0.33770883054892603,
+        "y": 0.3794749403341289,
+        "w": 0.3615751789976134,
+        "angle": 0,
+        "text": "read about this system",
+        "href": "scroll.html",
+        "src": "http://localhost:8000/maps/map/symbols/longarrow.svg"
+    },
+    {
+        "x": 0.40572792362768495,
+        "y": 0.13365155131264916,
+        "w": 0.49761336515513127,
+        "angle": -116,
+        "text": "read about this system",
+        "href": "scroll.html",
+        "src": "http://localhost:8000/maps/map/symbols/longarrow.svg"
+    },
+    {
+        "x": 0.026252983293556086,
+        "y": 0.0011933174224343676,
+        "w": 0.905727923627685,
+        "angle": 0,
+        "text": "Up a Level",
+        "href": "../",
+        "src": ""
+    }
+]

@@ -15,8 +15,8 @@
 ## Organic Media
 
 1. [pages](pages/)
-2. physical markers, signs, cards, artbox
-3. maps/memes
+2. [physical markers, signs, cards, artbox](markers/)
+3. [maps/memes](maps/)
 4. trees; Universe of Things, Tree replication
 5. replicators, github repositories
 6. servers
