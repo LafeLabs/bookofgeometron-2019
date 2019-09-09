@@ -1,4 +1,4 @@
-[../](../)
+## [up a level](../)
 
 # Path, ὁδός, 道
 
@@ -10,4 +10,12 @@ This may seem trivial, and it's generally ignored in modern science, but this is
 The Path we walk will be how we come together as people to live in a shared Universe in a Watershed, connected to Streets, and building useful things in Factories.  The word "way" references the word used in numerous Asian languages which is spelled "dao" in Mandarin, or "do" in Japanese and Korean.  The word "Path" was used by the early Christians to describe their fellowship, and so this combined idea of path/way has strong resonances both in the Christian world and in the East.  Also, "Path" implies a linking of points in a space, which is a useful way of thinking of a way of life.  Life can be thought of as a sequence of actions we take as we traverse through space and time.  This sequence forms a path in the Universe of potential actions.
 
 There are numerous Paths which will be constructed by those who read this book and its offshoots. Rather than dwell too much on specifics, this section merely describes how important this is as a concept and lets the reader imagine, describe and share their own vision.  This might be religious or secular, vague or specific, strict or liberal, but what matters is that we think about it and then declare and share it.  Only be declaring a path, sharing it, and propagating it, can we create the rapid evolution required to make *better* paths.  I do not claim to have the best path or even be anywhere near a best path. I merely want to convince the reader that *a* path is worthwhile.  
+
+## Teacher Action:
+
+Present and describe how you live the Path of Geometron, how it fits into your life
+
+## Student Action:
+
+Listen, learn and discuss how Geometron might fit into your life in ways that might alter its path.
 

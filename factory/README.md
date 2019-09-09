@@ -19,6 +19,29 @@ Thus we use the factory to describe three very different stages of technological
 
 The final layer of technology, building the complete set of technology will be an intense research and development effort of many people, one of the greatest technological quests in history, as our goal will be to build a truly sustainable technological culture which can survive the coming collapse.  In order to have the resources needed to carry out this research task, the second layer of technology must be profitable enough, in a totally decentralized way, to support a vast decentralized network of intense R&D. This means we must build the *equivalent* of a multi billion dollar company.  If we imagine this as a network with hundreds of thousands of nodes each with millions of dollars of yearly cash flow, with a few dozen people. Or millions of nodes with a few hundred thousand dollars yearly cash flow.
 
+The Factory thus has many layers, and what ends up being made by the teacher and student will depend enormously on context and will evolve a great deal as this project evolves and grows.  In many cases, this section will be very different for different students, as well, depending on context.  In some cases, the entire project of teaching the system will come down to this: the factory is a thing of extremely high value which the teacher is imparting to the student.  
+
+Some of the "products" which Geometron factories will produce are:
+
+- web pages
+- books
+- web calculators 
+- custom apps
+- Geographical app/pages
+- memes
+- geographic maps with links on them
+- markers, cards,signs and other physical link media
+- plotter robots that can create physical media with automation
+- products of those robots
+- custom specialty motors 
+- symbols
+- custom symbolic languages of various kinds
+- custom fonts and graphical languages
+- custom symbolic keyboards for custom languages
+- geometric constructions from sticks and string; furniture
+- cardboard and tape constructions: purses, storage, carrying cases
+- geometry tools and shapes: plastic, laminated paper, etc.
+
 
 
 
