@@ -1,4 +1,4 @@
-[up to main](../)
+## [up to main](../)
 
 # Physical Markers
 
@@ -17,7 +17,13 @@ Cards can be ornate works of art, much like tarot cards, or can be very crude se
 To build fully self-replicating systems of physical media we need something we call the ArtBox: a self relicating art supply carrier.  In its very crudest form this might be a found box with some found pens and paper trash one carries around.  However, as we develop more and more sophisticated elements of physical organic media, this should evolve into something of real intrinsic value.  In general, what the ArtBox is is a geometric box made up of cardboard, packing tape, and duct tape, which holds art supplies, along with a similar box made to hold cards.  The art supply box is meant to hold a box cutter, templates, sharpies, crayons, pens, and other art supplies needed to replicate itself.  It is carried by adding a shoulder strap like a purse, which also is where the rolls of tape are carried(threaded around the strap) that are needed to make another one.  The various sides to the ArtBox are also organic media, which contain links to digital media which document the system and the specific factory instance which generated that specific ArtBox.  ArtBox is also a beautiful and functional object which can be used as a general purpose purse and can be sold for money as a means to keep our Path as a financially productive process enabling us to survive and grow.  One of the first parts of the "meta business" described in this work is just to sit on the side of the street with a cardboard sign and sell ArtBoxes for money as well as to charge money for the service of guiding passerby to build their own ArtBoxes and learn how to pass it along to the next person.  This process of hands on combined art and technology education, to spread physical organic media to people is both a more faithful beginning of the world we want to build and also a more financially sustainable system than just selling the physical units.  One could easily charge over 100 dollars for a hands on experiential learning service, for under an hour of labor, with very minimal input of money for materials, for hours a day, with multiple people, generating thousands of dollars for a single Trash Camp(to be described later in this work.)
   
 
+## Teacher Action:
 
+Place markers out in the environment for both Street ant Watershed networks, collect and organize the art supplies needed to make new markers and bring them with you.
+
+## Student Action:
+
+With art supplies provided, add a new marker to the environment for either a new or existing node on one of the networks.
 
 
 

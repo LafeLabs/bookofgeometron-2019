@@ -9,3 +9,11 @@ Things are, in general, fractal.  That is, things are composed of sub-things.  O
 A collection of sub-things below a thing, and all the sub-sub things below that can be called a "tree", as it is a structure with one root and branches that fork and fork again, and eventually bear fruit. Trees can replicate.  This works.  But it is awkward.  It will work much better after it evolves.
 
 See a tree, replicate a tree. example of a thing.
+
+## Teacher Action:
+
+Replicate a Thing to a node on the network as an example, make a physical marker/card of the thing, hand that physical thing to the student
+
+## student action
+
+take the physical thing you're given, connect with it online, navigate through it, modify it, make another maker/card and pass it on to someone

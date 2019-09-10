@@ -1,6 +1,8 @@
 [symbol/](symbol/)
 
-# Books of Geometron
+# Books of Geometron: 
+ 
+## Organic Media
 
 [preface](preface/)
 
@@ -21,15 +23,15 @@
 3. [maps/memes](maps/)
 4. [trees; Universe of Things, Tree replication](trees/)
 5. [replicators, github repositories](replicators/)
-6. servers
-7. structure of code, language use
-8. GIS apps, web calculators, app development, future work
-9. books
+6. [servers](servers/)
+7. [structure of code, language use](codestructure/)
+8. [GIS apps, web calculators, app development, future work](apps/)
+9. [books](books/)
 
 ## Geometron Symbolic Language
 
-0. Why symbols? The symbol factory as key element of organic media.
-1. Action Geometry: scales and symmetries
+0. [Why symbols? The symbol factory as key element of organic media.](aboutsymbols/)
+1. [Action Geometry: scales and symmetries](actiongeometry/)
 2. Geometron Hypercube, octal byte code, Geometron Virtual Machine, symbol glyphs
 3. graphics formats: svg, json, png
 4. Geometron workflow and examples

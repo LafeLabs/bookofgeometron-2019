@@ -26,3 +26,22 @@ how to make memes specifically
 
 how to make a slide deck with an example
  
+
+## Teacher Action:
+
+- Prepare a treasure map for students to use and find treasure. 
+
+- Prepare a slide deck, use it to present the material(based on example passed to you by your teacher).  
+
+- prepare a meme factory for students to use to make memes
+
+## Student action:
+
+- modify memes, screen cap them share them
+- add a link to a street map, which could be used to locate local businesses 
+- place a treasure in physical space, annotate treasure map to reflect new location of treasure, share it with another person who can go find the treasure
+
+
+
+
+

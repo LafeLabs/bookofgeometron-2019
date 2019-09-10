@@ -34,6 +34,8 @@ Some of the "products" which Geometron factories will produce are:
 - plotter robots that can create physical media with automation
 - products of those robots
 - custom specialty motors 
+- custom domain names with Geometron network on them
+- local web server running on a raspberry pi
 - symbols
 - custom symbolic languages of various kinds
 - custom fonts and graphical languages
