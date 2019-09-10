@@ -38,6 +38,8 @@ Some of the "products" which Geometron factories will produce are:
 - local web server running on a raspberry pi
 - symbols
 - custom symbolic languages of various kinds
+- organic media based brand creation as service
+- brand language as service
 - custom fonts and graphical languages
 - custom symbolic keyboards for custom languages
 - geometric constructions from sticks and string; furniture
