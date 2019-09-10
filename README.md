@@ -6,6 +6,8 @@
 
 [preface](preface/)
 
+[teams](teams/)
+
 ## Cosmology
 
 1. [justification of the use of the word "cosmology", universe of Things](cosmology/)
