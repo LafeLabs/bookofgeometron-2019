@@ -33,8 +33,11 @@ Teams and guilds built out of roles in teams on a global level allow us to have 
 - book maker
 - book collector
 - symbol language artist
+- symbol librarian
 - font builder/keeper
-- keyboard maker
+- keyboard painter
+- brand designer
+- brand grower
 - social media marketer
 - marketer of classes in various venues
 - video content creator
