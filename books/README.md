@@ -22,4 +22,6 @@ bind a blank book
 
 print and bind Books of Geometron
 
+## Business action
 
+make and sell books. book factory
