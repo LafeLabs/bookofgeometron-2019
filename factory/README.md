@@ -46,7 +46,13 @@ Some of the "products" which Geometron factories will produce are:
 - cardboard and tape constructions: purses, storage, carrying cases
 - geometry tools and shapes: plastic, laminated paper, etc.
 
+## Teacher Action
 
+figure out what your team can and wants to build.  discuss with them what they want to build, help them brainstorm things they can build, how they might turn that into value both in terms of making money and in terms of post money values.
+
+## student action
+
+figure out what kinds of factories you want to build.  Figure out what factories you are participating now: how can you view the goods and services you provide for money or pay for as self-replicating information structures.  how do the factories you participate in replicate?  What do you *want* to make?
 
 
 

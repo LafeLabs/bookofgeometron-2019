@@ -2,6 +2,9 @@
 
 # Cosmology
 
+![](../symbols/500px-Flammarion_Colored.jpg)
+
+![](../symbols/Ilc_9yr_moll4096.png)
 
 Dictionary definition:
 
@@ -24,7 +27,12 @@ Before defining a new cosmology I want to state what I believe is the current do
 
 The true dominant cosmology of our age is the numbers-based world view.  This underlying basis, the idea that numbers have the most fundamental reality, underlies both the cosmology claimed by the astrophysicists and numerous other ideologies.  At the day to day social level, the dominant ideology for the whole world today is some form of capitalism.  At its heart what this really is is the assigning of numbers as value to all things.  We use numbers for prices, numbers for wages, numbers for wealth which measures power, numbers for voting to decide policy, numbers for physics, numbers for data "science" etc. So to build a truly new cosmology is to diverge from this numbers-first world view, and that is what we will do in this work.  
 
-The dominant cosmology has many threads and branches, but if I were to boil it down to *one* thing, it would be just numbers as the basis for everything.
+The dominant cosmology has many threads and branches, but if I were to boil it down to *one* thing, it would be just numbers as the basis for everything.  This is the most fundamental level, but if we look at how people actually behave, what we find is that there are very different cosmologies held by the elite in our current system and the masses.  The elite, the technocrats, believe in numbers to a religious degree.  A great number of the masses also claim to believe this but lack the depth of understanding to follow the actual details and really just believe in the technocratic priesthood as faith in the people, rather than in the actual content of the belief system.  Another large fraction of the population does not subscribe to this cosmology and claims to believe a variety of alternatives, often supposedly derived from religion, with a mix of science.  If we look closely at how people actually behave, however, their real cosmology is often driven by mass media and institutions: certain news outlets, consumer culture, certain "culture war" hot topics of interest to their religious leaders, and a very symbol-drive form of blind patriotism.  
+
+It is important to look with clear eyes at what it means in today's society to have a world view.  People pretend their world view is based on some mix of science and religion, but from a practical standpoint this is clearly false.  People in modern America are generally unfamiliar with the contents of both biblical scripture and science.  Rather, the way people see the world is based on flags, dollars, houses, cars, attractive people on tv, insecurities, and a whole host of weird cultural beliefs which make for something much closer to the paganism of ancient Rome than either an informed faith in Christianity or a science-based world view.
+
+If we admit that our world views are mostly a combination of media creations jumbled together to control our behavior, we can declare our freedom to build new world views with very little restrictions.  It is clear that a functioning world view need not be "true" in some absolute sense as that is in general not accessible to our minds. What we want above all else from a world view is *results*.  We want to declare what is best in life and then build a world view which allows us to live lives that tend toward that ideal.  In Geometron we declare that to be caring for others and having adventures.  
+   
 
 To boil down the view I'm taking here to one thing, we will say this:
 
@@ -42,7 +50,11 @@ Thus having seized "cosmology" back from that most reductionist of sciences, phy
 
 In this work we strive to build a cosmology which one person can fully understand and hence can use to build and live a good life.  That should be the point of all creation of thought tools: to build better lives. 
 
+Also, cosmology can be specific to a situation, it can be temporary and it can be fictional.  We speak casually all the time of things like "The Star Wars Universe" or "The Marvel Universe" and we all know what these phrases mean even though we do not literally believe them to be "real".  What is real? Is it real if you literally see a real person called Luke Skywalker? or is it enough to say that it is real to know that knowing things about Luke Skywalker can be relevant to your life because you can communicate with other people about it.  
+
 Roughly, the world view sketched here divides our Universe into three parts, joined by a linguistic framework.  Those three parts are the Watershed, the Street, and the Factory.  The linguistic framework is the system of "organic media" documented here, which is a combination of web-based media and physical media, both of which are self-replicating in that each bit of media can be totally replicated by anyone any time anywhere, for free, an infinite number of times(like living things, hence "organic"). 
+
+Our cosmology also centers on our social groups, in the case of this work, the Geometron team or camp or tribe or party.
 
 ## Teacher Action:
 

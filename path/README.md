@@ -13,9 +13,11 @@ There are numerous Paths which will be constructed by those who read this book a
 
 ## Teacher Action:
 
-Present and describe how you live the Path of Geometron, how it fits into your life
+Present and describe how you live the Path of Geometron, how it fits into your life.  Learn from your students what their paths are now: what do they believe, how do they lives their lives, how do they want to make that better, how do they want to live?
 
 ## Student Action:
 
-Listen, learn and discuss how Geometron might fit into your life in ways that might alter its path.
+Listen, learn and discuss how Geometron might fit into your life in ways that might alter its path.  Articulate your path: what do you believe, how does that impact how you live? how might you change how you live to be more in line with a geometron cosmology?
+
+
 
