@@ -19,6 +19,12 @@ Let us now imagine a more sophisticated example of the same basic format as the 
 
 If this all sounds complicated, don't be surprised.  All the previous examples are extremely complicated, we are just used to hiding complexity.  One can say that a religious scripture simply "self replicates".  But this is an absurd oversimplification: without the vast cultural ecosystem of the religion that backs it up none of this will happen.  And without the biological ecosystem on which the humans rely, they won't replicate and survive and none of it will work either.  Likewise for the branded beverage can, a vast capitalist ecosystem must exist to support both the fabrication of more cans of beverage an the money which consumers put into the system. And again, all this is based on an organic ecosystem.  
 
+## images
+
+- flow diagram showing a self replicating cardboard sign
+- flower as organic media which interacts with insects and other pollinators
+- flow diagram showing self replicating web content
+
 ## Teacher Action:
 
 present a slide deck on this

@@ -15,21 +15,21 @@
 3. [street](street/)
 4. [factory](factory/)
 5. [the path/way](path/)
-6. [organic media](organicmedia/)
 
 
 ## Organic Media
 
-1. [pages](pages/)
-2. [physical markers, signs, cards, artbox](markers/)
-3. [maps/memes](maps/)
-4. [trees; Universe of Things, Tree replication](trees/)
-5. [replicators, github repositories](replicators/)
-6. [servers](servers/)
-7. [structure of code, language use](codestructure/)
-8. [GIS apps, web calculators, app development, future work](apps/)
-9. [books](books/)
-10. [skeletron](skeletron/)
+1. [Introduction: organic media](organicmedia/)
+2. [pages](pages/)
+3. [physical markers, signs, cards, artbox](markers/)
+4. [maps/memes](maps/)
+5. [trees; Universe of Things, Tree replication](trees/)
+6. [replicators, github repositories](replicators/)
+7. [servers](servers/)
+8. [structure of code, language use](codestructure/)
+9. [GIS apps, web calculators, app development, future work](apps/)
+10. [books](books/)
+11. [skeletron](skeletron/)
 
 ## Geometron Symbolic Language
 

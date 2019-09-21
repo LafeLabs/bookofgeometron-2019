@@ -1,7 +1,10 @@
 [
     "circle.svg",
+    "factory.svg",
     "longarrow.svg",
     "longthinarrow.svg",
     "shortarrow.svg",
+    "street.svg",
+    "watershed.svg",
     "x.svg"
 ]

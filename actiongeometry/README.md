@@ -2,6 +2,8 @@
 
 # Action Geometry
 
+[action geometry ebook](http://actiongeometry.org/ebook.html)
+
 the usual path, from existing book.
 
 student action:

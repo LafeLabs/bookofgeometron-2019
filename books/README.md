@@ -10,6 +10,8 @@ The people's printer is a way of getting things printed for free by interacting 
 
 As people pass by and engage with the Geometron Camp, they'll take physical media with them, go to their offices, and navigate to the pdf, print it according to instructions found on the linked page, and bring the printouts back to the camp.  This unbound print out can be traded for other goods or services at the camp, but a very logical trade is to get a bound book in return.  People can thus bring a constant flow of unbound freely(stolen from random offices) printed books to the camp and walk away with bound books, while constantly growing the system by printing more than one copy at a time.
 
+In order to make printouts that can become books, we need to study how printer software works, and how to turn normal full page format into book format, rotated by 90 degrees, and divided into two pages per page-side, with the proper page numbering etc. 
+
 ## The self replicating bound book
 
 In order for a full book factory to exist, we need the tools to build more than just stacks of paper with stolen printouts. We need the ability to bind books that actually feel like books.  In order to do this, we need a needle, thread, and a thumb tack to poke holes in the pages.  We also need a ruler to mark even spacing of the holes.  This is enough to make "zine" formatted books, but more is needed to make a full sized book.  Duct tape and cardboard and tools to work the cardboard, along with art supplies to decorate the cover is enough to make a nicely bound book.  

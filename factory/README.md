@@ -46,6 +46,12 @@ Some of the "products" which Geometron factories will produce are:
 - cardboard and tape constructions: purses, storage, carrying cases
 - geometry tools and shapes: plastic, laminated paper, etc.
 
+## Some images to add:
+
+- flow diagram of a book factory
+- photograph of a book factory
+
+
 ## Teacher Action
 
 figure out what your team can and wants to build.  discuss with them what they want to build, help them brainstorm things they can build, how they might turn that into value both in terms of making money and in terms of post money values.
