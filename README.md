@@ -41,12 +41,13 @@
 6. [Symbolic languages: shape table construction, sharing, fonts](symboliclanguages/)
 7. [replication, code structure, future evolution](geometroncodestructure/)
 
-## Trash Camp
+## The Meta-business: Building Camps and Teams
 
-1. [What is a trash camp? The meta business](metabusiness/)
-2. [Physical organic media factory: artBox, cards, markers, signs](cardboard/)
+1. [The meta business](metabusiness/)
+2. [Trash camp economics, action cards and action markers, flows of goods, the Trash Feed](floweconomics/)
 3. [places to exist; venues](venues/)
-5. [Trash camp economics, action cards and action markers, flows of goods, the Trash Feed](floweconomics/)
-6. [Trash Robot](trashrobot/) 
-8. [the path to the future, how to scale this to humanity, how to survive as a people, future evolution](completeset/)
+4. [Trash Robot](trashrobot/) 
+5. [the path to the future, how to scale this to humanity, how to survive as a people, future evolution](completeset/)
+
+<!--3. [Physical organic media factory: artBox, cards, markers, signs](cardboard/)-->
 
