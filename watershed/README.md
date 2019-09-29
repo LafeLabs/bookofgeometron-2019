@@ -6,6 +6,8 @@
 
 ![](../symbols/Patuxentrivermap.png)
 
+![](../symbols/hammondscreencap.PNG)
+
 # Watershed
 
 Having declared our intent to construct a cosmology based on how we want to live rather than on reductionist science, we must now choose where to start.  We begin with how life begins, began and continues: with water.  The watershed is the most fundamental component of our world, in a very literal physical sense, but also in other ways. Water binds us to other living things including each other.  Most of our bodies are made up of water, as well as most living things.  If we try to build a new civilization from scratch the first thing we must do is treat clean water for drinking and waste water for safe disposal and reclamation.

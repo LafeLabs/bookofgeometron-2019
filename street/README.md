@@ -1,6 +1,14 @@
 ## [link up a level../](../)
 
 
+![](../symbols/i95.png)
+
+![](../symbols/route29.png)
+
+![](../symbols/md216.png)
+
+![](../symbols/maplelawn.png)
+
 # street
 
 The Street is the next layer of cosmology above Watershed.  The Street is a broad term in our cosmology for street-like structures that define our environment in terms of how people and goods move around.  This, like Watershed, is a fractal.  For instance the Interstate 95 corridor on the East Coast or Interstate 5 Corridor on the West coast are as much real things which determine the nature of our reality as our local river or ocean.  Below major transit corridors are next level highways, some of which are beltways or interstates or major state and federal routes.  Then there are local major roads, local minor roads, then the concrete or other building structures directly around wherever we are, which might be sidewalks, parking lots, benches, areas of some local park, a shopping center, etc.

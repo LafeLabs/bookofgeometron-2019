@@ -6,6 +6,9 @@
 
 ![](../symbols/Ilc_9yr_moll4096.png)
 
+
+![](../symbols/geometroncosmology.svg)
+
 Dictionary definition:
 
 The branch of philosophy dealing with the origin and general structure of the universe, with its parts, elements, and laws, and especially with such of its characteristics as space, time, causality, and freedom.
