@@ -17,6 +17,11 @@ In order to be self-sustaining, a full copy of the information contained here mu
 - selling geometron painted keyboards
 - make and sell custom painted artifacts which act as markers, markers as art
 - carved or otherwise processed artifacts made with trash plotter--trash plotter as factory of marketable goods
+- mechanical oscillators as a product
+- mechanical oscillators built in a class as a service
+- basic Arduino class as a service
+- every artifact in this system can be made in a class as a service, priced way above what the artifact itself would be sold for, but with the class being self-replicating: students are given the tools to run their own class
+- action geometry as a class which makes the Shapes
  
 
 The business model based on self-replicating technology where transmitting the technology is a service people pay for while learning how to also transmit it.  Thus money flows through the system as it exponentially expands.  The system can be thought as a living system that grows, where money always flows in from the edges.  
