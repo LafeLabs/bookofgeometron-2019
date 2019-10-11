@@ -50,7 +50,7 @@ Most other things people claim to have as their world view boil down to these ma
 
 We can analyze modern science with the same point of view.  Modern science is infected with some of the most corrosive Great Man Theory, arguably the worst that exists in society at large.  As scientists we work either for corporations with support of nation-states or directly for nation states, usually in support of the corporate system.  Our creations are defined as "intellectual property". Money and how it flows through our system determines everything about how we work. In much simpler and more obvious ways, our whole lives as scientists are completely defined by money, property, nation-states, and corporations.  
 
-
+In both the case of modern religion and modern science it is important to observe how far the manifestation of these things are in the existing cosmology is from what they both claim for themselves.  In both cases, they claim to put forth a cosmology and billions of people claim to hold to those cosmologies.  And yet for the most part neither group is very concerned with what they claim their cosmologies are in day to day life.  Whatever random bits of law religious conservatives choose to claim to care about, what we find in practice is that their concerns are not with the content of scripture but with how nation states respond to these things--they are concerned with very earthly power.  The same is true of scientists, who claim a cosmology that is based on the shape of the Universe and what particles matter is made of and yet live in a day to day existence in which these thing matter not at all.  
 
 
 
@@ -90,7 +90,10 @@ Having stated that cosmology is flexible and that it can be a deliberate choice,
 - The Watershed: how water flows through our physical world 
 - The Street: how people and things flow through our physical world
 - The Factory: how objects in our physical world are transformed to create utility for us
-- 
+- Symbols: the symbols that make up the structure of the language we use
+- The path: the series of decisions we make to deliberately shape the path of our lives
+
+Basing our cosmology on these things can replace the dominant cosmology.  This does not deny the existence of other things, any more than the dominant cosmology denies the existence of the things listed here(all of which are simply ordinary things in the dominant world view).  Rather, what we are shifting is how we *choose* to think about things *first*.  What is the most fundamental thing?  Again, we note that most modern people will simply speak untruthfully when asked this question.  They will point to either astrophysics, particle physics, or creation stories in scripture while really seeing all these things *primarily* through a lens of corporations, nations, Great Men, money and property.  We simply choose to think another way.  We are not changing what we believe per se, but *how we organize* the information we believe in.  
 
 
 ## [link up a level../](../)
@@ -114,6 +117,11 @@ Other elements of the watershed are the human artifacts we use to interact with 
 What do we do with all this information?  First we learn it.  We build up media about our watershed, just tracing what exists in our own lives, become familiar with what knowledge already exists in society about, it. Then, we build up more information on the watershed we interact with and share that: messages for others in the same watershed, scientific data, shared observations, research, and more and more links between connected parts of the real network of watershed elements(such as streams the feed into one another, bridges on the same stream).  Finally, we teach others how to do this, so that the network of information spreads.  This will be a little bit like a crowd sourced global atlas of all things relating to water: not things like "the wikipedia page on water towers" but things like "the water tower in the middle of Maple Lawn Maryland, along MD route 216 near the park n ride".  
 
 The network consists of both online media and physical media.  Physical media generally consists of objects which can be left outside in the weather which communicate how a place or thing fits into the global atlas of watershed elements via urls or names or symbols or some combination.  The online component is a self-replciating media system, to be more thoroughly documented in a future section, which can be hosted on any web server on the Internet.  Self=replicating means you replicate the pages your "self".  That is, anyone familiar with basic operation of the Watershed network is also familiar with how to teach a new person to replicate it, and this is simple enough that non experts can easily learn it and do it.  Each web page in the Network also is a fractal: it can be forked down to an arbitrary number of sub-layers of heiearchy.  
+
+Each new instance of this book will document the local watershed as it exists where the book was edited.  In this case the local watershed is the Hammond Branch, a very small stream that wildly fluctuates in flow with the weather.  In heavy rains it looks like a river.  When it hasn't rained for a few days it looks like barely a stream. Hammond Branch empties into the Little Patuxent, downstream of where it is joined by the Middle Patuxent, then the combined Little Patuxent eventually empties into the main Patuxent river, where it meanders down to empty into Chesapeake bay just a little bit north of the mouth of the Potomac River.  Chesapeake bay then empties out into the West side of the North Atlantic ocean.
+
+Where does water come from? where does it go?  how much?  what is the rainfall?  what are the prevailing winds that determine where the clouds come from?  Where do the clouds form? 
+
 
 This is the symbol for the Watershed network, created by the Geometron language documented later:
 
@@ -147,6 +155,10 @@ The Street is the next layer of cosmology above Watershed.  The Street is a broa
 
 
 As with the Watershed, of course the Street as defined here already exists.  What we are doing here is refocusing on it as a separate entity from political or business structures--we are focusing on the actual physical things, not what their current meaning is in our existing system.  Also we are building a network of Street elements, where each element maps to a web page, and also physical media which point to web pages.  Again, we are building a self-replicating network where we build elements in our direct environment, then teach others to do the same, and spread the network out to the whole world. 
+
+
+What is the Street where this book comes from?  At the top level, the Interstate 95 corridor defines where I am while I write this.  From there, the main local artery is the local also north-south route US Route 29.  At the most local level a very short easy walk from where most of this work is done is Maryland Route 216 a very local road.  Below that are various suburban shopping centers that define the physical commercial life where food and goods flow through this place.  This includes Sidamo Coffee, CVS pharmacy, Harris Teeter groceries, the shop at the BP gas station, and the Cherry Tree shopping center. 
+
 
 ![](../symbols/street.svg)
 
