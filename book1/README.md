@@ -9,7 +9,6 @@
 
 ![](../symbols/Ilc_9yr_moll4096.png)
 
-
 ![](../symbols/geometroncosmology.svg)
 
 Dictionary definition:
@@ -39,6 +38,21 @@ It is important to look with clear eyes at what it means in today's society to h
 
 If we admit that our world views are mostly a combination of media creations jumbled together to control our behavior, we can declare our freedom to build new world views with very little restrictions.  It is clear that a functioning world view need not be "true" in some absolute sense as that is in general not accessible to our minds. What we want above all else from a world view is *results*.  We want to declare what is best in life and then build a world view which allows us to live lives that tend toward that ideal.  In Geometron we declare that to be caring for others and having adventures.  
    
+Another summary of existing cosmology is that it centers on the following main concepts:
+
+- corporations
+- nations
+- money
+- property
+- Great Men
+
+Most other things people claim to have as their world view boil down to these main elements.  Take religion and science as examples.  In modern religion, people don't even notice how weird it is historically that all religions are corporations, and are generally defined by that corporate structure. They have revenue, property, money, accounting, etc. just like any other corporation. And the things religions generally care about and preach are directed to peoples relationship with the nation state: laws, above all else.  Religions that ran their own affairs for hundreds of years with limited use of money or and a hands off relationship or even independence from nations now consider the nation-state to the the primary means by which they express their values.  And of course religions of today are dominated by the Great Man theory of history. We take this for granted but this is a fairly new phenomenon.  Religions of numerous people whose cultures developed outside the modern military industrial order exist without famous people who define it.  They have gods, stories, traditions and living people who have special importance, but no Great Men whose names echo through the millennia.  And even the major religions of today in pre-modern times did not have the structures of today: corporations, money and property.
+
+We can analyze modern science with the same point of view.  Modern science is infected with some of the most corrosive Great Man Theory, arguably the worst that exists in society at large.  As scientists we work either for corporations with support of nation-states or directly for nation states, usually in support of the corporate system.  Our creations are defined as "intellectual property". Money and how it flows through our system determines everything about how we work. In much simpler and more obvious ways, our whole lives as scientists are completely defined by money, property, nation-states, and corporations.  
+
+
+
+
 
 To boil down the view I'm taking here to one thing, we will say this:
 
@@ -69,6 +83,14 @@ go through slide deck for this section
 ## student action:
 
 read this section
+
+
+Having stated that cosmology is flexible and that it can be a deliberate choice, we can now proceed to make that deliberate choice based on how we actually want to live. To that end we replace the list above with the following list of elements that make up our cosmology:
+
+- The Watershed: how water flows through our physical world 
+- The Street: how people and things flow through our physical world
+- The Factory: how objects in our physical world are transformed to create utility for us
+- 
 
 
 ## [link up a level../](../)
